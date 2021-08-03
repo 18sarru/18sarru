@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-👋 Hi, I’m Nunna Lakshmi Saranya
+
+-🤩 I’m interested in ML, Deep Learning and computer vision , IOT
+
+-🌱 I’m currently in the final year of my B.Tech in Electronics and Communication Engineering from the Indian Institute of Information Technology Tiruchirappalli
+
+-📫 How to reach me: Email: nunnals18e@iiitt.ac.in and https://www.linkedin.com/in/nunna-lakshmi-saranya/
